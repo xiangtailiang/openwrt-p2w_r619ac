@@ -7,3 +7,4 @@ Build OpenWrt for p2w r619ac using GitHub Actions, without losing the compatibil
 ## License
 
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © P3TERX
+
